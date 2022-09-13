@@ -1,2 +1,2 @@
 # site-matheus
-https://github.com/matheus899/site-matheus.git
+https://matheus899.github.io/site-matheus/
